@@ -245,3 +245,16 @@ p{
 .padding80{
     padding: 80px;
 }
+
+.sparks{
+    font-size: 28px;
+}
+
+.background-cyan{
+    background-color:#8EA1E1 ;
+}
+
+.macbutton{
+    width: 200px;
+    margin: 20px auto;
+}
