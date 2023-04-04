@@ -229,10 +229,19 @@ h2{
 
 .text-left{
     text-align: left;
-    padding: 50px;
+    
 }
 
 p{
     margin-top: 35px;
     margin-bottom: 20px;
+}
+
+
+.padding50{
+    padding: 50px;
+}
+
+.padding80{
+    padding: 80px;
 }
