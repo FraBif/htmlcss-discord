@@ -161,7 +161,7 @@ footer section.footer-top{
 }
 
 footer div.main-column{
-    background-color: #ef7f7f;
+    ;
     width: 30%;
 }
 
@@ -175,10 +175,10 @@ footer div.secondary-column{
 }
 
 footer section.footer-bottom{
-    background-color: #7ffed3;
     align-items: center;
     justify-content: space-between;
     padding: 1rem 0;
+    
 }
 
 hr{
@@ -257,4 +257,17 @@ p{
 .macbutton{
     width: 200px;
     margin: 20px auto;
+}
+
+.color-purple{
+    color: #7289DA;
+}
+
+.line{
+    line-height: 4rem;
+}
+
+.margin-hr{
+   margin-left: 150px;
+   margin-right: 150px;
 }
