@@ -26,7 +26,7 @@ text-align: center;
     color: white;
 }
 
-.white{
+.color-white{
    background-color: white;
 }
 
@@ -78,10 +78,11 @@ section.upper{
     width: 100%;
     height: 40px;
     align-items: center;
+    justify-content: space-between;
 }
 
 section.upper>div{
-    margin-left: 6rem;
+    
     padding: .5rem 1rem;
 }
 
@@ -191,21 +192,47 @@ footer section .button-wrapper{
 }
 
 
-p{
-    margin-top: 25px;
-}
+
 
 .button {
     background-color: white;
     border: none;
-    color: black;
+    
     padding: 10px 20px;
     text-align: center;
     display: inline-block;
-    margin: 4px 2px;
+    margin: 4px 7px;
     border-radius: 16px;
   }
 
-.logo{
-    margin-right: ;
+
+.space-between{
+    justify-content: space-between;
+}
+
+.background-black{
+    background-color: black;
+}
+
+.text-black{
+    color: black;
+}
+
+h2{
+    font-size: 40px;
+    
+}
+
+.column{
+    flex-direction: column;
+}
+
+.text-left{
+    text-align: left;
+    padding: 50px;
+}
+
+p{
+    margin-top: 35px;
+    margin-bottom: 20px;
 }
